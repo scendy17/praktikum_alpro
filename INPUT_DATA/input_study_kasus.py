@@ -1,4 +1,4 @@
-# Variable
+# Input Data
 # NIM : 1124102195 
 # NAMA : Scendy Aprianda Islamy
 
