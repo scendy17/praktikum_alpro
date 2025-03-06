@@ -1,3 +1,7 @@
+# Tipe Data
+# NIM : 1124102195 
+# NAMA : Scendy Aprianda Islamy
+
 # string : text
 data1 = 'Belajar Python'
 
