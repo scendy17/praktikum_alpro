@@ -16,4 +16,4 @@ angka2 = int(angka2_str)
 jumlah = angka1 * angka2
 
 #menampilkan hasil
-print(f"Hasil penjumlahan {angka1} * {angka2} = {jumlah}")
+print(f"Hasil {angka1} * {angka2} = {jumlah}")
