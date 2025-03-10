@@ -4,7 +4,7 @@
 
 # study kasus : buatkan program sederhana untuk menyimpan data mahasiswa. Data yang akan disimpan meliputi NIM, NAMA, dan JURUSAN.
 
-# sata mahasiswa
+# data mahasiswa
 mahasiswa = {'Nama':'Scendy Aprianda Islamy', 'NIM':'1124102195', 'Jurusan':'Teknik Informatika'}
 
 print('Data Mahasiswa :')
